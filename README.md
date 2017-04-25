@@ -40,6 +40,7 @@
     virtualenv = /home/username/www/venv
     chdir = /home/username/www/projectname
     touch-reload = /home/username/www/projectname/reload
+    static-map /images=/path/static/files
     module=wsgi:app
     uid = username
     gid = username
