@@ -3,7 +3,7 @@
 
 
 ### Preparation
- STEP 1 : sudo apt-get install python3-pip python3-dev nginx uwsgi uwsgi-plugin-python3
+ STEP 1 : `sudo apt-get install python3-pip python3-dev nginx uwsgi uwsgi-plugin-python3`
 
  STEP 2 : Create virtualenv wit python version
 
